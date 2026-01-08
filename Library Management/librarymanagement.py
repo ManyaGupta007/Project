@@ -1,6 +1,4 @@
 # librarymanagemnet.py
-# Name:Rishabh Bhardwaj
-#Rollno- 2501730355
 # ---------------------- Book Class ----------------------
 class Book:
     def __init__(self, title, author, isbn, status="available"):
@@ -110,3 +108,4 @@ def menu():
 
 # Run program
 menu()
+
